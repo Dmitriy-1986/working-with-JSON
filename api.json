@@ -2,7 +2,7 @@
     "webApp": {
         "title": "title json obj",
         "uri": "./index.html",
-        "datas-list": [
+        "datasList": [
             {
                 "id": "1",
                 "description": "Lorem ipsum dolor-1",
