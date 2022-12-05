@@ -1,6 +1,6 @@
 {
-    "web-app": {
-        "data-page": {
+    "webApp": {
+        "dataPage": {
             "title": "cofax.tld",
             "uri": "./index.html",
             "datas-list": [
