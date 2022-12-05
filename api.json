@@ -5,15 +5,18 @@
         "datas-list": [
             {
                 "id": "1",
-                "description": "Lorem ipsum dolor-1"
+                "description": "Lorem ipsum dolor-1",
+                "images": "./img/img1.png"
             },
             {
                 "id": "2",
-                "description": "Lorem ipsum dolor-2"
+                "description": "Lorem ipsum dolor-2",
+                "images": "./img/img2.png"
             },
             {
                 "id": "3",
-                "description": "Lorem ipsum dolor-3"
+                "description": "Lorem ipsum dolor-3",
+                "images": "./img/img3.png"
             }
         ]
     }
