@@ -1,22 +1,20 @@
 {
     "webApp": {
-        "title": "title json obj",
-        "uri": "./index.html",
-        "datasList": [
+        "title": "JavaScript Object Notation",
+        "uri": "https://www.json.org/json-en.html",
+        "description": "Это открытый стандартный формат файла и формат обмена данными , который использует удобочитаемый текст для хранения и передачи объектов данных, состоящих из пары атрибут-значение и массивы (или другие сериализуемые значения)."
+        "standards": [
             {
-                "id": "1",
-                "description": "Lorem ipsum dolor-1",
-                "images": "./img/img1.png"
+                "name": "RFC 4627",
+                "year": "2006"
             },
             {
-                "id": "2",
-                "description": "Lorem ipsum dolor-2",
-                "images": "./img/img2.png"
+                "name": "ECMA 404",
+                "year": "2013"
             },
             {
-                "id": "3",
-                "description": "Lorem ipsum dolor-3",
-                "images": "./img/img3.png"
+                "name": "RFC 8259",
+                "year": "2017"
             }
         ]
     }
