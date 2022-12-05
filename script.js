@@ -11,6 +11,6 @@ request.responseType = 'json';
 request.send();
 
 request.addEventListener('load', () => {
-    const [data] = JSON.parse(this.web-app.data-page.title);
+    const [data] = JSON.parse(this.webApp.dataPage.title);
     console.log(data);
 })
