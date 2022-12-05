@@ -1,5 +1,5 @@
 {
-    "web-app": {
+    "webApp": {
         "title": "title json obj",
         "uri": "./index.html",
         "datas-list": [
