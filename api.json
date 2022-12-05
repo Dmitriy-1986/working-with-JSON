@@ -1,22 +1,21 @@
 {
-    "webApp": {
-        "dataPage": {
-            "title": "cofax.tld",
-            "uri": "./index.html",
-            "datas-list": [
-                {
-                    "id": "1",
-                    "description": "Lorem ipsum dolor-1"
-                },
-                {
-                    "id": "2",
-                    "description": "Lorem ipsum dolor-2"
-                },
-                {
-                    "id": "3",
-                    "description": "Lorem ipsum dolor-3"
-                }
-            ]
-        }
+    "web-app": {
+        "title": "title json obj",
+        "uri": "./index.html",
+        "datas-list": [
+            {
+                "id": "1",
+                "description": "Lorem ipsum dolor-1"
+            },
+            {
+                "id": "2",
+                "description": "Lorem ipsum dolor-2"
+            },
+            {
+                "id": "3",
+                "description": "Lorem ipsum dolor-3"
+            }
+        ]
     }
 }
+
