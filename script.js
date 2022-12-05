@@ -3,7 +3,7 @@
 const title = document.querySelector('.title');
 const list = document.querySelector('.list');
 
-const uri = './api.json';
+const uri = 'https://github.com/Dmitriy-1986/working-with-JSON/blob/main/api.json';
 
 const request = new XMLHttpRequest();
 request.open('GET', uri);
