@@ -7,7 +7,6 @@ const uri = 'https://github.com/Dmitriy-1986/working-with-JSON/blob/main/api.jso
 
 const request = new XMLHttpRequest();
 request.open('GET', uri);
-request.responseType = 'json';
 request.send();
 
 request.addEventListener('load', () => {
